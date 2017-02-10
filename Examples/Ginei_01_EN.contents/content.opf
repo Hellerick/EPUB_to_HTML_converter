@@ -1,0 +1,102 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Dawn</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tanaka, Yoshiki">Yoshiki Tanaka</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (2.46.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Haikasoru</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8b832650-c28b-438b-9668-32391e729bf8</dc:identifier>
+    <dc:date>2016-03-08T05:00:00+00:00</dc:date>
+    <dc:description>&lt;p&gt;“The Golden Brat” Reinhard von Lohengramm, a military prodigy and admiral of the Galactic Empire, has ambitions beyond protecting the borders or even defeating the Empire’s enemies. He seeks to overthrow the old order and become a truly absolute—yet benevolent—dictator. His rival, the humble Yang Wen-li of the Free Planets Alliance, wishes to preserve democracy even if he must sacrifice his political ideals to defeat the Empire. Their political and military battles play out over a galactic chessboard in an epic saga fifteen centuries in the making!&lt;/p&gt;</dc:description>
+    <dc:rights>Copyright 1982 by Yoshiki TANAKA; cover Illustration copyright 2007 Yukinobu Hoshino.</dc:rights>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Science Fiction</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">8b832650-c28b-438b-9668-32391e729bf8</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">B01BI91F00</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781421587639</dc:identifier>
+    <meta name="calibre:title_sort" content="Dawn"/>
+    <meta name="calibre:timestamp" content="2016-03-13T18:34:46.575511+00:00"/>
+    <meta name="calibre:series" content="Legend of the Galactic Heroes"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Yoshiki Tanaka&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#source" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_7&quot;, &quot;is_category&quot;: true, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;source&quot;, &quot;rec_index&quot;: 26, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#source&quot;], &quot;datatype&quot;: &quot;text&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;colnum&quot;: 7, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Source&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#tbr" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_10&quot;, &quot;is_category&quot;: false, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;tbr&quot;, &quot;rec_index&quot;: 27, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#tbr&quot;], &quot;datatype&quot;: &quot;bool&quot;, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;}, &quot;colnum&quot;: 10, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;TBR&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#quality" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_8&quot;, &quot;is_category&quot;: false, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;quality&quot;, &quot;rec_index&quot;: 24, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;datatype&quot;: &quot;int&quot;, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;1 for Poor, 2 for Good, 3 for Perfect&quot;}, &quot;colnum&quot;: 8, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Quality&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#read" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_category&quot;: false, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;read&quot;, &quot;rec_index&quot;: 25, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#read&quot;], &quot;datatype&quot;: &quot;bool&quot;, &quot;display&quot;: {}, &quot;colnum&quot;: 1, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Read&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#page" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_4&quot;, &quot;is_category&quot;: false, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;page&quot;, &quot;rec_index&quot;: 23, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#page&quot;], &quot;datatype&quot;: &quot;int&quot;, &quot;display&quot;: {&quot;number_format&quot;: null}, &quot;colnum&quot;: 4, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Page&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#upload" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_category&quot;: false, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;upload&quot;, &quot;rec_index&quot;: 28, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#upload&quot;], &quot;datatype&quot;: &quot;bool&quot;, &quot;display&quot;: {}, &quot;colnum&quot;: 2, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Upload&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#words" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_5&quot;, &quot;is_category&quot;: false, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;words&quot;, &quot;rec_index&quot;: 29, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;datatype&quot;: &quot;int&quot;, &quot;display&quot;: {&quot;number_format&quot;: null}, &quot;colnum&quot;: 5, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Word Count&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#hyphenate" content="{&quot;category_sort&quot;: &quot;value&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_9&quot;, &quot;is_category&quot;: true, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;hyphenate&quot;, &quot;rec_index&quot;: 22, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#hyphenate&quot;], &quot;datatype&quot;: &quot;text&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;colnum&quot;: 9, &quot;is_custom&quot;: true, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;name&quot;: &quot;Hyphenate&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="text/part0000.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="against_drm.png" id="id" media-type="image/png"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.jpeg" id="id14" media-type="image/jpeg"/>
+    <item href="images/00002.jpeg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00003.jpeg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00004.jpeg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00005.jpeg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00006.jpeg" id="id11" media-type="image/jpeg"/>
+    <item href="images/00007.jpeg" id="id10" media-type="image/jpeg"/>
+    <item href="images/00008.jpeg" id="id15" media-type="image/jpeg"/>
+    <item href="images/00009.jpeg" id="id13" media-type="image/jpeg"/>
+    <item href="images/00010.jpeg" id="id16" media-type="image/jpeg"/>
+    <item href="images/00011.jpeg" id="id18" media-type="image/jpeg"/>
+    <item href="images/00012.jpeg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00013.jpeg" id="id1" media-type="image/jpeg"/>
+    <item href="images/00014.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00015.jpeg" id="id2" media-type="image/jpeg"/>
+    <item href="images/00016.jpeg" id="id17" media-type="image/jpeg"/>
+    <item href="images/00017.jpeg" id="id12" media-type="image/jpeg"/>
+    <item href="images/00018.jpeg" id="id5" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id30"/>
+    <itemref idref="id38"/>
+    <itemref idref="id32"/>
+    <itemref idref="id31"/>
+    <itemref idref="id22"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id26"/>
+    <itemref idref="id21"/>
+    <itemref idref="id25"/>
+    <itemref idref="id23"/>
+    <itemref idref="id37"/>
+    <itemref idref="id29"/>
+    <itemref idref="id35"/>
+    <itemref idref="id33"/>
+    <itemref idref="id24"/>
+    <itemref idref="id34"/>
+    <itemref idref="id36"/>
+  </spine>
+  <guide>
+    <reference href="text/part0004.html#uf8LnNfq4CAi4kFhOWxpm79" title="TOC" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
