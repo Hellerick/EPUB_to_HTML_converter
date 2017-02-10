@@ -33,7 +33,8 @@ def convert_epub_to_html(epub_path):
     folder_path, epub_filename = os.path.split(epub_path)
     # print('Folder', folder_path, 'File', epub_filename)
     unzip(epub_path)
-    pass
+
+    # content.opf # spine -- default reading order
 
 if __name__ == '__main__':
     convert_epub_to_html(epub_path)
